@@ -32,9 +32,4 @@ Developed a hybrid machine learning framework to identify early warning signals 
   - Recall: **84%**
   - ROC-AUC: **0.88**
 
-## Repository Contents
 
-- Financial_Crisis_Report.pdf
-- Source Code
-- Dataset
-- Results & Visualizations
