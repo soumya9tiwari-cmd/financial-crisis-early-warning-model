@@ -25,7 +25,7 @@ Developed a hybrid machine learning framework to identify early warning signals 
 
 ## Results
 
-- Successfully identified major historical financial crises
+- Identified anomalies corresponding to the 2008 Global Financial Crisis and the 2020 COVID-19 market disruption.
 - Hybrid model achieved:
   - Accuracy: **88%**
   - Precision: **92%**
